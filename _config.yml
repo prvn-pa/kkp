@@ -1,6 +1,9 @@
 #
 # This file contains configuration flags to customize your site
 #
+#Import Theme
+
+theme: jekyll-theme-chirpy
 
 # Name of your site (displayed in the header)
 name: Praveen
